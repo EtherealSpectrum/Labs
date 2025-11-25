@@ -1,4 +1,4 @@
-// ΚΑΚΟΥΛΛΗΣ 1117202500063 Παρασκευής 15:00–17:00 (Τμήμα 6).
+// ΚΑΚΟΥΛΛΗΣ XXXXXXXXXXXXX Παρασκευής 15:00–17:00 (Τμήμα 6).
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -130,3 +130,4 @@ unsigned int* digital_root(int n) {
 
 	return &dgr_step[qt - 1];
 }
+
