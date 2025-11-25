@@ -1,7 +1,4 @@
-// ΚΑΚΟΥΛΛΗΣ 1117202500063 Παρασκευής 15:00–17:00 (Τμήμα 6).
-
-// Στο ορολόγιο πρόγραμμα παρακάτω αναγράφεται ως Τμήμα 5 σε αντίθεση με το eClass που αναγράφεται ως Τμήμα 6.
-// https://www.dind.uoa.gr/spoydes/orologio_programma_kai_programma_exetaseon
+// ΚΑΚΟΥΛΛΗΣ XXXXXXXXXXXXX Παρασκευής 15:00–17:00 (Τμήμα 6).
 
 #include <stdio.h>  // To be able to print and scan.
 #include <stdlib.h> // To be able to have fancy and descriptive return statements.
@@ -154,3 +151,4 @@ bool is_single_digit(int number) { // @suppress("Type cannot be resolved")
 
 	return 0 <= number && number <= 9;
 }
+
