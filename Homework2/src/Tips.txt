@@ -1,0 +1,16 @@
+// 3. Χρήση tolower() από ctype.h θα ήταν πιο ευανάγνωστο
+#include <ctype.h>
+str[i] = tolower(str[i]);
+
+
+
+
+
+
+const char *substring = lower; // Δείκτης για να διασχίσει το string
+while ((substring = strstr(substring, KEY)) != NULL) {
+    counter++;
+    substring++; // Προχώρα έναν χαρακτήρα για να βρεις την επόμενη εμφάνιση
+}
+
+
