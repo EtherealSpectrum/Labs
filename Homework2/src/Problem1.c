@@ -1,4 +1,4 @@
-//KAKOULLIS 1117202500063
+//ON. A.M.
 
 #include <stdio.h>      // Standard input/output functions (printf, scanf, fgets, etc.)
 #include <math.h>       // Mathematical functions (abs, etc.)
@@ -207,3 +207,4 @@ size_t occurrences(int arr[], size_t length, int search) {
 
 	return occurs;  // Return total count of occurrences
 }
+
