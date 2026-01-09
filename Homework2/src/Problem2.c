@@ -1,4 +1,4 @@
-// KAKOULLIS 1117202500063
+// ΟΝ. Α.Μ.
 
 // Include standard input/output library for printf and getchar
 #include <stdio.h>
@@ -118,3 +118,4 @@ int count_word(char text[], char word[]) {
 	}
 	return count;
 }
+
