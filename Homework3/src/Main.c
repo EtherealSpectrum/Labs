@@ -1,4 +1,4 @@
-// ΚΑΚΟΥΛΛΗΣ 1117202500063
+// ΟΝ. ΑΜ.
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -137,3 +137,4 @@ int main() {
 
 	return EXIT_SUCCESS;
 }
+
